@@ -24,3 +24,9 @@ decagram,gram,decigram,centigram,milligram and pounds.
 👉provides clear instructions and user-friendly output.
 
 Have a look,how it works👀
+
+![Screenshot 2023-12-30 220814](https://github.com/Sukruthareddy12/unit_convertor/assets/153543378/63fd63f2-0a19-4a0e-8f5b-7797d272e3c4)
+
+![Screenshot 2023-12-30 220613](https://github.com/Sukruthareddy12/unit_convertor/assets/153543378/719783fb-c6db-4f10-b47f-96bba9dfddcc)
+
+![Screenshot 2023-12-30 220546](https://github.com/Sukruthareddy12/unit_convertor/assets/153543378/f6ba2be5-12ea-4d0e-b667-984746501a2a)
